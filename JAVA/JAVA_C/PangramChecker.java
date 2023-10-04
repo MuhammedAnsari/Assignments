@@ -1,4 +1,4 @@
-//  
+//Check if the input is pangram or not.
 
 import java.util.HashSet;
 import java.util.Scanner;
